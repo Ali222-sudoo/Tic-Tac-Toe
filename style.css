@@ -68,7 +68,7 @@ body{
 }
 
 #new-btn:hover{
-    background-color:darkgreen;
+    background-color:rgb(7, 255, 7);
     color: white;
     cursor: pointer;
 }
